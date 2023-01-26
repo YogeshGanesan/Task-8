@@ -1,0 +1,22 @@
+#from{
+	background-color:yellow;
+}
+h2#one{
+   background-color:purple;
+}
+#yes h4{
+ color:lime;
+}
+.mam{
+   text-align:center;
+   
+}
+p.first {
+  background-color: yellow;
+}
+h3.first{
+background-color:pink;
+}
+h6{
+ color:blue;
+}
